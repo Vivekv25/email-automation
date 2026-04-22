@@ -63,7 +63,8 @@ This project demonstrates practical skills in backend development, automation sy
 
 ### Dashboard
 
-<img width="1703" height="905" alt="dashboard" src="https://github.com/user-attachments/assets/d842f240-c5f4-4328-9975-2df81bee6013" />
+<img width="1703" height="905" alt="dashboard" src="https://github.com/user-attachments/assets/97ecd340-cef4-4ee6-b999-82519f5e428e" />
+
 
 
 ---
